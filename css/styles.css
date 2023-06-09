@@ -208,7 +208,9 @@ header ul li a { display: block; margin: 0 30px; color: #4d4959; }
 .intro { padding: 55px 0; background-color: #fbfbfb; }
 .section-living { background: url(../img/living.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-1 { background: url(../img/bedroom1.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
+.section-deck { background: url(../img/deck.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-2 { background: url(../img/kitchen-dining.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
+.section-bunkie { background: url(../img/bunkie.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-3 { background: url(../img/beach-west.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-4 { background: url(../img/drone-beach1.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; }
 .section-text { position: relative; height: 600px; }
@@ -217,6 +219,8 @@ header ul li a { display: block; margin: 0 30px; color: #4d4959; }
 .small-featured-img { height: 180px; width: 100%; position: absolute; bottom: 0; }
 .living2 { background: url(../img/living2.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 .bedroom2 { background: url(../img/bedroom2.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
+.bunkie { background: url(../img/bunkie2.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
+.patio { background: url(../img/patio.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 .dinig { background: url(../img/dining.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 .frame-red { background: url(../img/chrome-wheels.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 .section-text p { padding: 0 60px; text-align: justify; }
@@ -270,6 +274,7 @@ footer p { font-size: 13px; margin: 0; }
 .footer-midcol li a:hover { opacity: 0.5; }
 .twitter-icon { background: url(../img/twitter-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
 .facebook-icon { background: url(../img/facebook-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
+.vrbo-icon { background: url(../img/vrbo-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
 .pintrest-icon { background: url(../img/pintrest-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
 .airbnb-icon { background: url(../img/airbnb-round-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
 .wp1, .wp2, .wp3, .wp4, .wp5, .wp6 { visibility: hidden; }
